@@ -1,0 +1,11 @@
+# Archivos de entorno y configuración local
+.env
+*.log
+
+# Extensiones / Caché de VS Code y Node
+.vscode/
+node_modules/
+
+# Sistema operativo
+Thumbs.db
+.DS_Store
